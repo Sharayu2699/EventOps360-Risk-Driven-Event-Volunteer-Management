@@ -64,7 +64,7 @@ These metrics are consistently applied across all dashboard views.
 ## Live Tableau Dashboard
 
 The live Tableau Cloud dashboard can be accessed here:
-
+https://10ax.online.tableau.com/t/tableauworkforsharayu/views/NY_Modified_Event_Data/EVENTOPERATIONSCONTROLDASHBOARD 
 
 The dashboard is fully interactive and functions as demonstrated in the project demo video.
 
@@ -74,7 +74,7 @@ The dashboard is fully interactive and functions as demonstrated in the project 
 
 A short walkthrough of the dashboard is available here:
 
-
+https://youtu.be/rIxLT6YV-Qc?si=VbvpSHoyYRXsqFXW 
 
 ---
 
